@@ -1,6 +1,6 @@
 #Update
 
-Mac-Ruby-Install will soon be maintained by [Cosmic Open Source Projects](https://github.com/ilovecode1)
+Mac-Ruby-Install is now maintained by [Cosmic Open Source Projects](https://github.com/ilovecode1)
 
 #System Requirements
 
