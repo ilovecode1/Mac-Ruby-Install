@@ -1,3 +1,7 @@
+#Bug Fix
+
+Fix Problem in installruby-2.2.2
+
 #Update
 
 Mac-Ruby-Install is now maintained by [Cosmic Open Source Projects](https://github.com/ilovecode1)
