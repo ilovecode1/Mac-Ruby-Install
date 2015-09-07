@@ -28,7 +28,7 @@ If you are copying and pasting the code the "Minified" version is what you want 
 
 #Mac Ruby Install 1.3
 
-Showes notifacation when mac-ruby-install is done!
+Shows notifacation when mac-ruby-install is done!
 
 #About
 
